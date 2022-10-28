@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Slobozhancky
+- 👀 I’m interested in running, cooking, warm company
+- 🌱 I’m currently learning - React
+- 📫 How to reach me:
+        - email: il.slob93#gmail.com
+        - telegram: t.me/slobozhancky
+        - linkedin: https://www.linkedin.com/in/slobozhancky/
